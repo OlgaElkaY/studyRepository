@@ -1,5 +1,0 @@
-merge.txt
-add row1
-add row2
-новый контент файла
-branch2
